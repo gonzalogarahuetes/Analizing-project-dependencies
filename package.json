@@ -1,0 +1,27 @@
+{
+  "name": "project_dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gonzalogarahuetes/Analizing-project-dependencies.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gonzalogarahuetes/Analizing-project-dependencies/issues"
+  },
+  "homepage": "https://github.com/gonzalogarahuetes/Analizing-project-dependencies#readme",
+  "dependencies": {
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "jest": "^27.1.0"
+  }
+}
